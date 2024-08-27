@@ -20,7 +20,7 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348086051695"]; //like 2347080968564 
+global.Owner = ["2347080968564"]; //like 2347080968564 
 global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
